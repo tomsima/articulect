@@ -1,4 +1,4 @@
-<img width="1003" height="953" alt="articulect-logo" src="https://github.com/user-attachments/assets/b9d72624-c22a-493f-b67f-4c54e4ac43c0" />
+<img width="512" height="366" alt="articulect-logo" src="https://github.com/user-attachments/assets/39138c61-46d9-4730-81b0-43febb15009b" />
 
 # articulect
 ## a topolect toolkit
