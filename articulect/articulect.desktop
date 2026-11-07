@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Articulect
+Comment=Speech data recorder for focus-elicitation experiments
+Exec=/home/tomsima/.local/bin/articulect
+Icon=/home/tomsima/articulect/articulect-logo.png
+Terminal=false
+Categories=AudioVideo;Education;
+StartupWMClass=articulect-Articulect
