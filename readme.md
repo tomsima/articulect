@@ -3,9 +3,10 @@
 # articulect
 ## a topolect toolkit
 
-articulect is a specialised software package for researchers collecting speech data on post-focus compression. the application allows for the easy capture of data from speech experiment participants who speak various Chinese topolects. It is intended to be developed in future so that different types of prosodic speech data may be obtained with ease.
 
-articulect is written in java and built from source using maven. git clone the repo, then run mvn package from the root folder.
+Articulect is a specialised software package for researchers collecting speech data on post-focus compression in Chinese topolects. The application allows for the easy capture of data from speech experiment participants who speak various Chinese topolects and may not be confident with technology. Audio files are automatically named and saved to file ready for processing in Praat. 
+
+Articulect is written in java for Linux machines, and is built from source using maven. git clone the repo, then run mvn package from the root folder.
 
 ```bash
 git clone https://github.com/tomsima/articulect.git
