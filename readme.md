@@ -1,9 +1,5 @@
 <img width="886" height="247" alt="articulect-banner" src="https://github.com/user-attachments/assets/f8f98c83-7648-41ad-a704-e8dc8f0dbc8c" />
 
-# articulect
-## a topolect toolkit
-
-
 Articulect is a specialised software package for researchers collecting speech data on post-focus compression in Chinese topolects. The application allows for the easy capture of data from speech experiment participants who speak various Chinese topolects and may not be confident with technology. Audio files are automatically named and saved to file ready for processing in Praat. 
 
 Articulect is written in java for Linux machines, and is built from source using maven. git clone the repo, then run mvn package from the root folder.
