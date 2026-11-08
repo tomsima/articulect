@@ -11,14 +11,6 @@ cd articulect
 mvn package
 ```
 
-Known gaps / ideas
-
-    No in-app way to delete or edit a speaker (edit speaker-database.org by hand; the Speaker database view is read-only).
-    No audio level meter or playback to check takes.
-    Researcher can't mark a take as unnatural other than pressing Record again.
-    No migration from the old ~/topolecture data folder: copy speaker-database.org and the topolect folders into ~/articulect by hand.
-    Export of metadata (CSV) for Praat/R analysis.
-
 Dependencies
 
     Java 17+
